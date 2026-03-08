@@ -1,4 +1,6 @@
-## Another net user
+## 0x01001100
+
+[![SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20F7A6&width=435&lines=Another+net+user.;a+common+human.)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=InfectedBit&base=0&color=green&style=flat&label=Net+Visitors+: )
 <!--
