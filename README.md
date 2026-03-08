@@ -1,4 +1,4 @@
-## Hi there 👋
+## Another net user
 
 <!--
 **InfectedBit/InfectedBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
